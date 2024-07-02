@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": "7405",
+      "name": "projeto atualizado",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "49cf",
+      "name": "testando services",
+      "budget": "1223",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "2",
+      "name": "Design"
+    },
+    {
+      "id": "3",
+      "name": "Planejamento"
+    },
+    {
+      "id": "4",
+      "name": "Infra"
+    }
+  ]
+}
